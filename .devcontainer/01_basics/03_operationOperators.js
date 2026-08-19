@@ -57,12 +57,21 @@ let str2="World"
 // console.log(str1+str2) //HelloWorld
 // console.log(str1+" "+str2) //Hello World
 
-console.log("1" + 1) //11
-console.log(1 + "1") //11
-console.log("1" + 1 + 1) //111
-console.log(1 + 1 + "1") //21
-console.log("1" + 1 + 1) //111
+// console.log("1" + 1) //11
+// console.log(1 + "1") //11
+// console.log("1" + 1 + 1) //111
+// console.log(1 + 1 + "1") //21
+// console.log("1" + 1 + 1) //111
 
 
 
+// console.log(+true) //1
+// console.log(+false) //0
+// console.log(+"") //0
+// console.log(true +) 
+
+let gameCounter=100
+gameCounter++ //101
+console.log(gameCounter) //101 
+  
 
