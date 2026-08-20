@@ -26,11 +26,11 @@ console.log(bigNumber) //9007199254740991n
 
 
 const heros=["shaktiman","nagraj","doga"]
-{
-    name="Raju Singh",
-    age=22,
-    isLoggedIn=false
-}
+const user={
+    name:"Raju Singh",
+    age:22,
+    isLoggedIn:false
+};
 
 const myfunction=function(){
     console.log("Hello, World!");
